@@ -1,0 +1,14 @@
+build/
+cmake-build-*/
+out/
+
+renderer
+*.exe
+*.o
+*.a
+*.so
+*.dll
+*.pdb
+
+.vscode/
+.idea/
